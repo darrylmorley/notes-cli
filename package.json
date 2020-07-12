@@ -1,0 +1,12 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Darryl Morley",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.1.1",
+    "yargs": "^15.4.0"
+  }
+}
